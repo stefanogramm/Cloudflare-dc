@@ -1,0 +1,6 @@
+colo: sfo04 - San Francisco, CA
+colo: sc_ord02 - Chigaco, Ilinois
+colo:
+colo:
+colo:
+colo:
