@@ -1,6 +1,12 @@
-colo: sfo04 - San Francisco, CA
-colo: sc_ord02 - Chigaco, Ilinois
-colo:
-colo:
-colo:
-colo:
+[
+  {
+    "colo_alias": "Athens, GR",
+    "colo_city": "Athens",
+    "colo_code": "ATH",
+    "colo_country": "Greece",
+    "colo_country_a2": "GR",
+    },
+    "colo_name": "ath01",
+    "colo_region": "EEUR"
+  }
+]
